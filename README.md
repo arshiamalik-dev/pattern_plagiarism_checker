@@ -1,6 +1,6 @@
 # Pattern Plagiarism Checker
 
-A desktop application that detects similarity between crochet patterns using OCR, text canonicalization, shingling, and semantic embeddings.  
+A desktop application made with the help of AI resources that detects similarity between crochet patterns using OCR, text canonicalization, shingling, and semantic embeddings.  
 Designed to compare PDFs, images, and text-based patterns with high accuracy — even when formatting or OCR quality varies.
 
 ---
