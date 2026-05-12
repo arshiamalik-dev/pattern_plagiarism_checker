@@ -1,0 +1,6 @@
+pdfplumber
+pytesseract
+Pillow
+sentence-transformers
+torch
+numpy
